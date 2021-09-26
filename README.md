@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Hello</h1>
+<p>Hello.</p>
   
 <h2>Another heading?</h2>
 <p2>another paragraph.</p2>
